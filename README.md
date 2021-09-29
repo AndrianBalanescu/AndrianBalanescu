@@ -90,16 +90,16 @@
 
 
 <p align="center">
-<img height="124" width="124" src="Assets\icons\javascript-icon-png-20.jpg">
-<img height="48" width="48" src="Assets\icons\file_type_js_official_icon_130509.ico">
-<img height="24" width="24" src="Assets\icons\css.svg">
+
+<img height="28" width="28" src="icons\file_type_js_official_icon_130509.ico">
+<img height="24" width="24" src="icons\css.svg">
 
 
 
-<img height="24" width="24" src="Assets\icons\json.svg">
-<img height="24" width="24" src="Assets\icons\typescript.svg">
+<img height="24" width="24" src="icons\json.svg">
+<img height="24" width="24" src="icons\typescript.svg">
 
-<img height="24" width="24" src="Assets\icons\markdown.svg">
+<img height="24" width="24" src="icons\markdown.svg">
 </p>
 
 
@@ -108,14 +108,14 @@
 
 
 <p align="center">
-<img height="24" width="24" src="Assets\icons\npm.svg">
-<img height="24" width="24" src="Assets\icons\yarn.svg">
-<img height="24" width="24" src="Assets\icons\powershell.svg">
-<img height="24" width="24" src="Assets\icons\vscode.svg">
+<img height="24" width="24" src="icons\npm.svg">
+<img height="24" width="24" src="icons\yarn.svg">
+<img height="24" width="24" src="icons\powershell.svg">
+<img height="24" width="24" src="icons\vscode.svg">
 <img height="24"  src="https://supabase.io/new/images/logo-dark.png">
 <img height="24"  src="Assets/expressjs.svg">
 <img height="24"  src="Assets/mongodb.svg">
-<img height="24"  src="Assets/icons/git.svg">
+<img height="24"  src="icons/git.svg">
 </p>
 
 
@@ -125,11 +125,9 @@
 
 
 <p align="center">
-<img height="24" width="24" src="Assets\icons\vue.svg">
-<img height="24" width="24" src="Assets\icons\nuxt.svg">
-<img height="24" width="24" src="Assets\icons\nodejs.svg">
-<img height="24" width="24" src="Assets\vuetify.svg">
-
+<img height="24" width="24" src="icons\vue.svg">
+<img height="24" width="24" src="icons\nuxt.svg">
+<img height="24" width="24" src="icons\nodejs.svg">
 <img height="24" width="24" src="https://threejs.org/files/favicon.ico">
 <img height="24" width="24" src="https://www.electronjs.org/images/favicon.b7a59262df48d6563400baf5671da548.ico">
 </p>
