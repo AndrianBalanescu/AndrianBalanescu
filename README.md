@@ -90,8 +90,8 @@
 
 
 <p align="center">
-<img height="24" width="24" src="Assets\icons\javascript.svg">
-<img height="24" width="24" src="Assets\icons\html.svg">
+<img height="124" width="124" src="Assets\icons\javascript-icon-png-20.jpg">
+<img height="48" width="48" src="Assets\icons\file_type_js_official_icon_130509.ico">
 <img height="24" width="24" src="Assets\icons\css.svg">
 
 
