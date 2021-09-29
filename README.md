@@ -98,7 +98,7 @@
 <img height="24" width="24" src="icons\json.svg">
 <img height="24" width="24" src="icons\typescript.svg">
 
-<img height="24" width="24" src="icons\markdown.svg">
+
 </p>
 
 
@@ -115,7 +115,9 @@
 <img height="24"  src="Assets/expressjs.svg">
 <img height="24"  src="Assets/mongodb.svg">
 <img height="24"  src="icons/git.svg">
+
 </p>
+
 
 
 
@@ -125,10 +127,14 @@
 
 <p align="center">
 <img height="24" width="24" src="icons\vue.svg">
+
 <img height="24" width="24" src="icons\nuxt.svg">
 <img height="24" width="24" src="icons\nodejs.svg">
 <img height="24" width="24" src="https://threejs.org/files/favicon.ico">
 <img height="24" width="24" src="https://www.electronjs.org/images/favicon.b7a59262df48d6563400baf5671da548.ico">
+
+<br><img height="24" width="24" src="icons\markdown.svg"><br>
+<br><img height="324" width="324" src="icons\quasar.png">
 </p>
 
 
