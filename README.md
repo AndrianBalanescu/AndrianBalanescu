@@ -26,9 +26,9 @@
 <p align="center">NodeJS & Typescript</p>
 <p align="center">Docker</p>
 <p align="center">AWS Cloud Architect</p>
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=👯%20I’m%20looking%20to%20collaborate%20on%20...&fontSize=32)
 
-<p align="center">Freelance , personal and open source projects</p>
+
+<p align="center">Personal and open source projects</p>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=💬%20Ask%20me%20about%20...&fontSize=32)
 
