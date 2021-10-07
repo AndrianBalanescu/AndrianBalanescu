@@ -16,7 +16,7 @@
 [Kloudvibe  DevOps  Bootcamp](https://kloudvibe.com)
 
 
-[Combats.com Nekromant Clan - One my very first websites that i built with UCOZ  in 2006 ( it's not responsive or anything but im glad it's still around)](https://nekromant.ucoz.ua)
+[Combats.com Nekromant Clan - One my very first websites that i built with UCOZ  in 2008 ( it's not responsive or anything but im glad it's still around)](https://nekromant.ucoz.ua)
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=🌱%20I’m%20currently%20learning%20...&fontSize=32)
 
