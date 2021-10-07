@@ -13,9 +13,8 @@
 
 [PowerDat  BEX  ](https://github.com/AndrianBalanescu/Power-Dat-Google-Maps-Search-Routing)
 
-[Kloudvibe  DevOps  Bootcamp](https://github.com/AndrianBalanescu/KloudVibe)
+[Kloudvibe  DevOps  Bootcamp](https://kloudvibe.com)
 
-[Clean  Code  JS](https://github.com/AndrianBalanescu/clean-code-javascript)
 
 [Combats.com Nekromant Clan - One my very first websites that i built with UCOZ  in 2006 ( it's not responsive or anything but im glad it's still around)](https://nekromant.ucoz.ua)
 
@@ -29,6 +28,8 @@
 
 
 <p align="center">Personal and open source projects</p>
+
+[Clean  Code  JS](https://github.com/AndrianBalanescu/clean-code-javascript)
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=💬%20Ask%20me%20about%20...&fontSize=32)
 
