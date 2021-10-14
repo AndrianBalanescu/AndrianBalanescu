@@ -1,5 +1,33 @@
 
 [![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=👋%20Hi%20There,%20I'am%20Andrew,&fontSize=50)](https://github.com/AndrianBalanescu)
+<pre>
+----------------------------------------
+<span>Andrew, Hello World!!</span>
+----------------------------------------
+      \   ^__^
+       \  (oo)\_______
+          (__)\ 0   0 )\  *
+              ||--0-w | \/
+              ||     ||
+</pre>
+
+I am a frontend developer, I work with Javascript frameworks like [ReactJS](https://reactjs.org/), [VueJS, Quasar Framework](https://vuejs.org/), [React Native](https://reactnative.dev/), [NodeJS](https://expressjs.com/, NestJS),[TypeScript] [Linux , Docker] [GCP , AWS ,... .  
+**Developing Is My Life** 👋
+
+<!-- ### Check out my social medias: -->
+
+<!-- - 💬 [Facebook](https://www.facebook.com/zendy199x)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/zendy199x/) -->
+
+<!-- ![zendy199x's github stats](https://github-readme-stats.vercel.app/api?username=zendy199x&theme=merko&show_icons=true) -->
+
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrianBalanescu&layout=compact&hide=html" alt="zendy199x" /></div>
+<br />
+<br />
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=AndrianBalanescu&show_icons=true" alt="zendy199x" /></div>
+
+<!-- ### and just a funny gif...😛
+![](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif) -->
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=🔭%20Some%20of%20my%20projects%20...&fontSize=32)
 
