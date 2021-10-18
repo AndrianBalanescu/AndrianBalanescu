@@ -29,7 +29,7 @@ I am a web developer, I work with  vanilla Javascript and frameworks like [React
 <!-- ### and just a funny gif...😛
 ![](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif) -->
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=🔭%20Some%20of%20my%20projects%20...&fontSize=32)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=🔭%20Some%20of%20my%20projects%20%that%20have%20links%20:)%20...&fontSize=32)
 
 [<img height="32" width="32" src="https://i.imgur.com/TyyL0MG.png">](https://github.com/AndrianBalanescu/KloudVibe)
 
