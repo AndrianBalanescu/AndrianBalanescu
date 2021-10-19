@@ -1,7 +1,7 @@
 
 [![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=👋%20Hi%20There,%20I'am%20Andrew,&fontSize=50)](https://github.com/AndrianBalanescu)
 <pre>
-<p  align="center"><img  src="https://img.shields.io/badge/Resume-Email me!-blue?style=plastic" /> <img  src="https://img.shields.io/badge/Languages-Expert-red?style=plastic" /> <img  src="https://img.shields.io/badge/Tools-Expert-yellow?style=plastic" /> </p>
+<p  align="center"><img  src="https://img.shields.io/badge/I-just-Git-and-Github-iT!-blue?style=plastic" /> <img  src="https://img.shields.io/badge/Languages-Expert-red?style=plastic" /> <img  src="https://img.shields.io/badge/Tools-Expert-yellow?style=plastic" /> </p>
 ----------------------------------------
 <span>Andrew, Hello World!!</span>
 ----------------------------------------
