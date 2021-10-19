@@ -40,7 +40,7 @@ I am a web developer, I work with  vanilla Javascript and frameworks like [React
 
 [123  ConstrAction  Remodeling  Chicago  ](https://123constraction.com)
 
-[PowerDat  BEX  ](https://github.com/AndrianBalanescu/Power-Dat-Google-Maps-Search-Routing)
+[PowerDat  BEX  ](https://chrome.google.com/webstore/detail/power-dat-google-map-sear/oincafggaepgofadjimemcfmdfpjoepl)
 
 [Kloudvibe  DevOps  Bootcamp](https://kloudvibe.com)
 
