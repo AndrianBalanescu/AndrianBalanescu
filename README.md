@@ -12,7 +12,7 @@
               ||     ||
 </pre>
 
-I am a web developer, I work with  vanilla Javascript and frameworks like [ReactJS](https://reactjs.org/), [VueJS, Quasar Framework](https://vuejs.org/), [React Native](https://reactnative.dev/), [NodeJS](https://expressjs.com/, NestJS),[TypeScript] i use everyday on my PC > [different Linux distro's , Dockerized Apps] [GCP , AWS ,Heroku , Netlify]
+I am a web developer, I work with  vanilla Javascript and frameworks like [ReactJS](https://reactjs.org/), [VueJS, Quasar Framework](https://vuejs.org/), [React Native](https://reactnative.dev/), [NodeJS](https://expressjs.com/, NestJS),[TypeScript]   > [different Linux distro's , Dockerized Apps] [GCP , AWS ,Heroku , Netlify]
 **Developing Is My Life** 👋
 
 <!-- ### Check out my social medias: -->
