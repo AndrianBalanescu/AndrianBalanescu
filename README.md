@@ -1,4 +1,5 @@
 
+
 [![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=👋%20Hi%20There,%20I'am%20Andrew,&fontSize=50)](https://github.com/AndrianBalanescu)
 <pre>
   <img  src="https://img.shields.io/badge/Languages-Expert-red?style=plastic" /> <img  src="https://img.shields.io/badge/Tools-Expert-yellow?style=plastic" /> </p>
@@ -48,6 +49,8 @@ I am a web developer, I work with  vanilla Javascript and frameworks like [React
 [Combats.com Nekromant Clan - One my very first websites that i built with UCOZ  in 2008 ( it's not responsive or anything but im glad it's still around)](https://nekromant.ucoz.ua)
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=🌱%20I’m%20currently%20learning%20...&fontSize=32)
+
+   <br><img height="324" width="324" src="https://www.sitepoint.com/static/code-world-8a09009f98ec928cf3e4c924c1fc9421.svg">
 
 <p align="center">Algorithms and Data Structures</p>
 <p align="center">Redux</p>
@@ -133,6 +136,8 @@ I am a web developer, I work with  vanilla Javascript and frameworks like [React
 <br><img height="24" width="24" src="icons\markdown.svg"><br>
 
 <br><img height="324" width="324" src="icons\quasar.png">
+
+
 
 </p>
 
