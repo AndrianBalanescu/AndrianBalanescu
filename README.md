@@ -74,10 +74,6 @@ I am a web developer, I work with  vanilla Javascript and frameworks like [React
 
 [<img  height="24" href="" src="Assets\github.png">](https://github.com/AndrianBalanescu)
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=⚡%20Fun%20fact:%20...&fontSize=32)
-
-<p align="center"> Chuck Norris invented fun facts</p>
-
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=🔰Job%20Status&fontSize=32)
 
 <p align="center">Actively Looking 👀</p>
