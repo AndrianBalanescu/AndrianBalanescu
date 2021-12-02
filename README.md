@@ -32,22 +32,7 @@ I am a web developer, I work with  vanilla Javascript and frameworks like [React
 <!-- ### and just a funny gif...😛
 ![](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif) -->
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=🔭%20Some%20of%20my%20projects%20...&fontSize=32)
-
-[<img height="32" width="32" src="https://i.imgur.com/TyyL0MG.png">](https://github.com/AndrianBalanescu/KloudVibe)
-
-[Chill  Limo  Luxury  Transportation  Service  with  a  online  booking  system](https://chilllimo.com)
-
-[Motorockstar  E-commerce](https://motorockstar.com)
-
-[123  ConstrAction  Remodeling  Chicago  ](https://123constraction.com)
-
-[PowerDat  BEX  ](https://chrome.google.com/webstore/detail/power-dat-google-map-sear/oincafggaepgofadjimemcfmdfpjoepl)
-
-[Kloudvibe  DevOps  Bootcamp](https://kloudvibe.com)
-
-
-[Combats.com Nekromant Clan - One my very first websites that i built with UCOZ  in 2008 ( it's not responsive or anything but im glad it's still around)](https://nekromant.ucoz.ua)
+ 
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=🌱%20I’m%20currently%20learning%20...&fontSize=32)
 
