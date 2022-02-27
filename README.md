@@ -42,7 +42,7 @@ I love to appreciate all kinds of architecture and get inspiration from it. I ha
    <br><img height="324" width="324" src="https://www.sitepoint.com/static/code-world-8a09009f98ec928cf3e4c924c1fc9421.svg">
 
 <p align="center">Algorithms and Data Structures</p>
-<p align="center">Redux</p>
+<p align="center">Dev Ops</p>
 <p align="center">NodeJS & Typescript</p>
 <p align="center">Docker</p>
 <p align="center">AWS Cloud Architect</p>
