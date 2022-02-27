@@ -15,6 +15,9 @@
 </pre>
 
 I am a web developer, I work with  vanilla Javascript and frameworks like [ReactJS](https://reactjs.org/), [VueJS, Quasar Framework](https://vuejs.org/), [React Native](https://reactnative.dev/), [NodeJS](https://expressjs.com/, NestJS),[TypeScript]   > [different Linux distro's , Dockerized Apps] [GCP , AWS ,Heroku , Netlify]
+ My goal is to pursue the ultimate beauty, think about the relationship between man and nature, explore the design system formed by nature, and apply it to life and product design.
+
+I love to appreciate all kinds of architecture and get inspiration from it. I have a concept that everything can be designed.
 **Developing Is My Life** 👋
 
 <!-- ### Check out my social medias: -->
