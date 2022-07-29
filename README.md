@@ -1,4 +1,4 @@
-[![NodeJS_GoLang_PostgreSQL_MongoDB_Express_AWS_JavaScript_ReactJS_CSS_VUE](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=NodeJS_GoLang_PostgreSQL_MongoDB_Express_AWS_JavaScript_ReactJS_CSS_VUE)](https://pimp-my-readme.webapp.io)
+
 
 [![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=👋%20Hi%20There,%20I'am%20Andrew,&fontSize=50)](https://github.com/AndrianBalanescu)
 <pre>
