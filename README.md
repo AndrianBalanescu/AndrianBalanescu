@@ -1,8 +1,8 @@
 ## Hey, I'm Andrew 👋
 
-Full-stack engineer building AI-powered tools and native apps. Based in Chicago.
+Senior Full-Stack Engineer specializing in e-commerce architecture, cloud infrastructure, and AI tooling. Based in Chicago.
 
-### What I'm building
+### Current Projects
 
 - **VoiceInk TTS** — Local multi-engine text-to-speech gateway (Fish-Speech, XTTS, Piper)
 - **PocketForge** — AI app builder (PocketBase + Vue 3 + OpenRouter)
@@ -10,25 +10,46 @@ Full-stack engineer building AI-powered tools and native apps. Based in Chicago.
 - **xlmdb** — Lightning-fast LMDB wrapper for Node.js/TypeScript
 - **clipboard-app** — Cross-platform clipboard manager (Dart/Flutter)
 
-### Tech stack
+### E-commerce & Shopify Expertise
 
-**Languages:** TypeScript · Python · Dart · Swift · Go  
-**Frontend:** Vue 3 · Nuxt · React · Tailwind  
-**Backend:** Node.js · PocketBase · FastAPI  
-**AI/ML:** OpenRouter · local LLMs · TTS/STT pipelines  
-**Infra:** Docker · Linux · self-hosted everything
+- Shopify Hydrogen + Storefront API — headless commerce at scale (100K+ daily users)
+- Custom product configurators with real-time visualization (HTML5 Canvas, embroidery/file parsing)
+- Order management systems handling 2M+ historical orders with sub-second search
+- Shopify Admin API, GraphQL, payment gateway integrations, custom shipping calculators
+- WooCommerce, headless CMS architectures, SSR/SSG for SEO
+
+### Cloud & Performance
+
+- Cloudflare Workers edge computing (60% latency reduction across 50+ countries)
+- Real-time WebSocket state sync with Durable Objects (10K+ concurrent users)
+- R2 storage pipelines, KV store, serverless architecture
+- Event tracking systems processing 1M+ events monthly
+- Lighthouse 95+ scores, 65% faster page loads
+
+### Tech Stack
+
+**Frontend:** React · Vue 3 · Nuxt · Remix.js · Next.js · TypeScript · Tailwind CSS  
+**Backend:** Node.js · Express · GraphQL · WebSocket · PostgreSQL · MongoDB  
+**Shopify:** Hydrogen.js · Storefront API · Admin API · Headless Commerce  
+**Cloud:** Cloudflare Workers · R2 · Durable Objects · AWS · Docker  
+**AI/ML:** OpenRouter · local LLMs · TTS/STT pipelines · MCP  
+**Languages:** TypeScript · Python · Dart · Swift · Go · PHP  
 
 ### Background
 
-8 years building on GitHub. Started in frontend (Vue/Nuxt/Gatsby), went through e-commerce (4 years at alphabroder), crypto/web3, and automation tools. Now focused on AI tooling and native apps.
+12+ years building scalable web platforms — from WordPress/WooCommerce to headless Shopify Hydrogen, from booking systems to crypto trading interfaces. Now also building AI-powered developer tools and native apps.
 
-Previously in trucking/dispatch — built tools for Power.DAT loadboard. That experience inspired LoadETA, an AI freight dispatch OS.
+Previously in trucking/dispatch — built route optimization tools for Power.DAT loadboard. That experience inspired LoadETA, an AI freight dispatch OS.
 
-### Find me
+### Let's connect
 
 [![Twitter](https://img.shields.io/twitter/follow/andrianbalanesq?style=social)](https://twitter.com/AndrianBalanesq)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew%20B.-blue?style=social&logo=linkedin)](https://linkedin.com/in/andrew-balanescu-870832199)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew%20Balanescu-blue?style=social&logo=linkedin)](https://linkedin.com/in/andrew-balanescu-870832199)
+
+<!--
+Fun fact: 68+ LinkedIn Learning certifications. I collect skills like some people collect stamps.
+-->
 
 ---
 
-*"The best tool is the one you actually build."*
+*"Ship fast, optimize later, but always ship."*
