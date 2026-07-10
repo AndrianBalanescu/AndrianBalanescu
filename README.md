@@ -37,7 +37,7 @@ Senior Full-Stack Engineer specializing in e-commerce architecture, cloud infras
 
 ### Background
 
-12+ years building scalable web platforms — from WordPress/WooCommerce to headless Shopify Hydrogen, from booking systems to crypto trading interfaces. Now also building AI-powered developer tools and native apps.
+15+ years building scalable web platforms — from WordPress/WooCommerce to headless Shopify Hydrogen, from booking systems to crypto trading interfaces. Now also building AI-powered developer tools and native apps.
 
 Previously in trucking/dispatch — built route optimization tools for Power.DAT loadboard. That experience inspired LoadETA, an AI freight dispatch OS.
 
